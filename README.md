@@ -1,8 +1,10 @@
 # <b> Halo & Sparkle Snapchat Filter </b>
 
 ## Setting up and running the script
-
+Download Face Landmark Detection Model (shape_predictor_68_face_landmarks.dat) 
+from [here](https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat)
 - Install the requirements of the script as follows
+  
 ```
     $ pip install -r requirements.txt
 ```
